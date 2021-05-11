@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TestSpringAngularApplication<test-spring-angular>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ilopez.testspringangular.TestSpringAngularApplication",
+            "projectName": "test-spring-angular",
+            "args": ""
+        }
+    ]
+}
